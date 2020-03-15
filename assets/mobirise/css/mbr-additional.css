@@ -1817,6 +1817,14 @@ body {
 .cid-rTlKpTGBcT .mbr-section-subtitle {
   color: #767676;
 }
+.cid-rTlMjDVUuH {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-rTlMjDVUuH .mbr-section-subtitle {
+  color: #767676;
+}
 .cid-qFS3iLhLQd {
   padding-top: 30px;
   padding-bottom: 0px;
@@ -1848,7 +1856,6 @@ body {
   width: 25px;
   height: 25px;
   border-radius: 50%;
-  content: '✓';
 }
 .cid-qFS3j3D9U2 {
   padding-top: 0px;
